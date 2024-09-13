@@ -2,6 +2,8 @@
 
 This is my submission for App Academy Open's HTML and CSS Spec Project
 
+[Photo](https://unsplash.com/photos/a-mountain-covered-in-snow-and-clouds-under-a-cloudy-sky-u16YzVrw_pk) by Joseph Corl
+
 ## Instructions
 
 Wireframes are quick, lightweight outlines design specs that layout a web page. Being able to discuss and plan your core elements allows your web page to have a solid foundation to build on. This is an important skill when you work on web design and development.
