@@ -1,0 +1,154 @@
+/* #845ec2 #dff1f8 #388ba6 */
+/* #4b4453 #b0a8b9 #00896f #00c0a3 #dff1f8*/
+
+* {
+    font-family: "Poppins", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html {
+    min-width: 200px;
+    font-size: 16px;
+    background-color: #dff1f8;
+    color: black
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.apo-icon {
+    min-width: 100px;
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: #845ec2;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #dff1f8;
+}
+
+header a,
+footer a {
+    font-size: 120%;
+}
+
+.header-nav,
+.header-sub-nav {
+    border-bottom: 4px solid #4b4453;
+}
+
+/* Upper Navigation Bar */
+
+.header-nav {
+    min-width: 320px;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav > a {
+    border: 2px solid #845ec2;
+    padding: 0.5em 2em;
+    border-radius: 0.5em;
+}
+
+/* Lower Navigation Bar */
+
+.header-sub-nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 1em 0;
+}
+
+/* Main Content */
+
+h1 {
+    margin-bottom: 0;
+}
+
+.author-details {
+    padding: 1em 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.share-socials {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.author-details .share-socials span {
+    border: 2px solid #36465d;
+    padding: 0.5rem 1.5rem;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    text-indent: 4em;
+    text-align: justify;
+    text-justify: auto;
+}
+
+/* Sidebar */
+
+h4 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.sidebar {
+    padding: 0 4em 2em;
+    border: 2px solid #36465d;
+}
+
+.iterative-recursive {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Footer */
+
+footer {
+    padding: 2em 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer .footer-nav {
+    min-width: 60%;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Social Media Icons */
+
+.fa {
+    padding: 0.8rem 1rem;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa.fa-facebook {
+    background-color: #3B5998;
+    color: white;
+}
+
+.fa.fa-tumblr {
+    background-color: #36465d;
+    color: white;
+}
