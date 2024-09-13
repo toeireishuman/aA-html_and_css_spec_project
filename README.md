@@ -1,6 +1,6 @@
 # aA-html_and_css_spec_project
 
-This is my submission for App Academy Open's HTML and CSS Spec Project
+This is my submission for App Academy Open's HTML and CSS Spec Project. See [the page](https://toeireishuman.github.io/aA-html_and_css_spec_project/).
 
 [Photo](https://unsplash.com/photos/a-mountain-covered-in-snow-and-clouds-under-a-cloudy-sky-u16YzVrw_pk) by Joseph Corl
 
